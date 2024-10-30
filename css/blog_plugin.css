@@ -1,0 +1,38 @@
+/* 
+    Document   : blog_plugin.css
+    Created on : Dec 11, 2012, 10:54:51 AM
+    Author     : juhi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.mainform {
+border: 1px solid #AAAAAA;
+background-color: #EEEEEE;
+font-size: 14px;
+padding:8px 8px 8px 25px;
+margin-bottom:10px;
+}
+.mainform fieldset {
+border: 1px solid #BBBBBB;
+background-color: #E5E5E5;
+padding:10px 10px 0 10px;
+margin:0 10px 20px 0 ;
+}
+.fieldsetinfo {
+font-size:12px;
+color:#777777;
+margin-bottom:15px;
+}
+.formstyle dd {
+margin: 0 5em 1em 5em;
+}
+.formstyle dt {
+float: left;
+padding-right: 10px;
+padding-top: 1px;
+}
+.fieldinfo {
+color: #999;
+font-size: 11px;
+}
